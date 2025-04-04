@@ -36,3 +36,9 @@ main div div {
     font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
 }
+#mainOne {
+    display:flex;
+    border: 1px #ffcf60 dashed;
+    padding: 1%;
+    margin: 1%;
+}
