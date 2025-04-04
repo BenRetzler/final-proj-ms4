@@ -4,14 +4,14 @@ header {
     text-align: center;
 }
 nav {
-    margin: 15px;
+    margin: 4%;
     border: 3.5px #96755b solid;
     display: flex;
     justify-content: space-between;
 }
 nav a {
     align-self: auto;
-    padding: 75px 25px;
+    padding: 15% 5%;
     border: 2px #000000 solid;
     font-size: 40;
 }
