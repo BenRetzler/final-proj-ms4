@@ -36,20 +36,12 @@ main {
 main div div {
     font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
+    width: 50%;
 }
-#mainOne {
-    display:flex;
-    border: 1px #ffcf60 dashed;
-    padding: 1%;
-    margin: 1%;
+main div img {
+    width: 35%;
 }
-#mainTwo {
-    display:flex;
-    border: 1px #ffcf60 dashed;
-    padding: 1%;
-    margin: 1%;
-}
-#mainThree {
+.mainDiv {
     display:flex;
     border: 1px #ffcf60 dashed;
     padding: 1%;
