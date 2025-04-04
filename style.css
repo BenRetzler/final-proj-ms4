@@ -1,4 +1,9 @@
 header {
     margin: auto;
     font-size: 45px;
+    align-content: center;
+}
+nav {
+    margin: 15px;
+    border: 1px black solid;
 }
