@@ -4,7 +4,7 @@ header {
     text-align: center;
 }
 nav {
-    margin: 4%;
+    margin: 6%;
     border: 3.5em #96755b solid;
     display: flex;
     justify-content: space-between;
@@ -18,5 +18,9 @@ nav a {
     border: 1em #000000 solid;
     font-size: 40px;
     margin: 0.5%;
-    border-radius: 12%;
+    border-radius: 50px;
+}
+main {
+    margin: 2.5%;
+    border:0.5em#96755b solid;
 }
