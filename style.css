@@ -20,7 +20,10 @@ nav a {
     margin: 0.5%;
     border-radius: 50px;
 }
+hr {
+    border: 0.4em #000000 solid;
+}
 main {
     margin: 2.5%;
-    border:0.5em#96755b solid;
+    border:0.25em#96755b solid;
 }
