@@ -42,3 +42,15 @@ main div div {
     padding: 1%;
     margin: 1%;
 }
+#mainTwo {
+    display:flex;
+    border: 1px #ffcf60 dashed;
+    padding: 1%;
+    margin: 1%;
+}
+#mainThree {
+    display:flex;
+    border: 1px #ffcf60 dashed;
+    padding: 1%;
+    margin: 1%;
+}
