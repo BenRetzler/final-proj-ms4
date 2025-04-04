@@ -6,4 +6,9 @@ header {
 nav {
     margin: 15px;
     border: 1px black solid;
+    display: flex;
+    justify-content: space-between;
+}
+nav a {
+    align-self: auto;
 }
