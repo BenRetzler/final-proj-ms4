@@ -18,7 +18,7 @@ nav a {
     padding-left: 10%;
     padding-right: 10%;
     padding-top: 2.5%;
-    padding-bottom: 2.5%;
+    padding-bottom: 0.5%;
     border: 1em #000000 solid;
     font-size: 40px;
     margin: 0.5%;
@@ -29,7 +29,7 @@ hr {
     border: 0.4em #000000 solid;
 }
 main {
-    margin: 2.5%;
+    margin: 0 2.5% 2.5% 2.5%;
     border:0.25em#96755b solid;
 }
 main div div {
