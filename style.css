@@ -2,6 +2,8 @@ header {
     margin: auto;
     font-size: 85px;
     text-align: center;
+    color: #ffcf60;
+    text-shadow: #000000 2px;
 }
 nav {
     margin: 6%;
@@ -26,4 +28,7 @@ hr {
 main {
     margin: 2.5%;
     border:0.25em#96755b solid;
+}
+main div div {
+    font-size: 25px;
 }
