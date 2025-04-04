@@ -5,10 +5,12 @@ header {
 }
 nav {
     margin: 15px;
-    border: 1px black solid;
+    border: 3.5px #96755b solid;
     display: flex;
     justify-content: space-between;
 }
 nav a {
     align-self: auto;
+    padding: 25px;
+    border: 2px #000000 solid;
 }
