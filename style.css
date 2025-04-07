@@ -52,4 +52,11 @@ main div img {
     margin: 1%;
     max-width: 99%;
     min-width: 92.5%;
+
+}
+footer {
+    margin: auto;
+    height: 10%;
+    background-color: #96755b;
+    position: sticky;
 }
