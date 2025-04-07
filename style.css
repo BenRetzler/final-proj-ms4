@@ -50,4 +50,6 @@ main div img {
     border: 1px #ffcf60 dashed;
     padding: 1%;
     margin: 1%;
+    max-width: 99%;
+    min-width: 92.5%;
 }
