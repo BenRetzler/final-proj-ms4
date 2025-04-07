@@ -45,7 +45,8 @@ main div img {
     width: 37%;
 }
 .mainDiv {
-    display:flex;
+    display: flex;
+    justify-content: space-evenly;
     border: 1px #ffcf60 dashed;
     padding: 1%;
     margin: 1%;
