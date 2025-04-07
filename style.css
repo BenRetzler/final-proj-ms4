@@ -60,4 +60,6 @@ footer {
     height: 10%;
     background-color: #96755b;
     position: sticky;
+    padding: 2.5%;
+    text-align:center;
 }
