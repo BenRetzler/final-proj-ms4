@@ -34,7 +34,7 @@ hr {
 }
 main {
     margin: 0.25% 2.5% 2.5% 2.5%;
-    border:0.25em#96755b solid;
+    border:0.25em#96755b double;
 }
 main div div {
     font-size: 25px;
@@ -65,4 +65,5 @@ footer {
 }
 footer p {
     font-family: Helvetica, Arial, sans-serif;
+    color: #fff5e5;
 }
