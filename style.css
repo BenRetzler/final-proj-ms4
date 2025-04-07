@@ -34,7 +34,7 @@ hr {
 }
 main {
     margin: 0.25% 2.5% 2.5% 2.5%;
-    border:0.25em#96755b double;
+    border: 0.75em#96755b double;
 }
 main div div {
     font-size: 25px;
