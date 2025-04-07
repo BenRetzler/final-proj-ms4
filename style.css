@@ -62,11 +62,12 @@ footer {
     left: 0;
     bottom: 0;
     width: 100%;
-    padding: 2.5%;
+    padding: 2%;
     text-align:center;
-    
+
 }
 footer p {
     font-family: Helvetica, Arial, sans-serif;
     color: #fff5e5;
+    display: inline;
 }
