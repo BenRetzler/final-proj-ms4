@@ -63,3 +63,6 @@ footer {
     padding: 2.5%;
     text-align:center;
 }
+footer p {
+    font-family: Helvetica, Arial, sans-serif;
+}
