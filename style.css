@@ -71,22 +71,31 @@ footer p {
     color: #fff5e5;
     display: inline;
 }
-@media only screen and (max-width: 64em) {
+@media only screen and (max-width: 70em) {
     .mainDiv {
         flex-direction: column;
     }
     main div img {
-        max-width: 60%;
+        max-width: 80%;
+        margin: auto;
         order: 0;
     }
     main div div {
         order: 1;
+        max-width: 80%;
+        margin: auto;
+        text-align: center;
+        font-size: 20px;
     }
     nav a {
         border: 4px #000000 solid;
         font-size: 12px;
+        padding: 5px
     }
     nav {
         border: 0.9em #96755b solid;
+    }
+    header {
+        font-size: 60px;
     }
 }
