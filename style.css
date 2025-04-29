@@ -82,4 +82,7 @@ footer p {
     main div div {
         order: 1;
     }
+    nav a {
+        border: 4px;
+    }
 }
