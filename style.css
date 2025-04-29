@@ -91,7 +91,7 @@ footer p {
     nav a {
         border: 4px #000000 solid;
         font-size: 12px;
-        padding: 5px
+        padding: 5px 15px;
     }
     nav {
         border: 0.9em #96755b solid;
