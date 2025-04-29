@@ -83,6 +83,10 @@ footer p {
         order: 1;
     }
     nav a {
-        border: 4px;
+        border: 4px #000000 solid;
+        font-size: 12px;
+    }
+    nav {
+        border: 0.9em #96755b solid;
     }
 }
