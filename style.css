@@ -71,3 +71,15 @@ footer p {
     color: #fff5e5;
     display: inline;
 }
+@media only screen and (max-width: 64em) {
+    .mainDiv {
+        flex-direction: column;
+    }
+    main div img {
+        max-width: 60%;
+        order: 0;
+    }
+    main div div {
+        order: 1;
+    }
+}
